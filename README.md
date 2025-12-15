@@ -1,4 +1,4 @@
-## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
+## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineer
 
 ### 🔥 Hot Course Offers:
 * 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
